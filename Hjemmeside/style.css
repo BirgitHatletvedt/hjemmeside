@@ -1,0 +1,36 @@
+body {
+    background-color: beige;
+    font-family: sans-serif;
+
+}
+
+
+h1 {
+    text-align: center;
+    color: rgba(78, 38, 9, 0.966);
+}
+
+p {
+    color: gray;
+    text-align: center;
+}
+
+.sitat {
+    color: red;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 50px;
+}
+
+.bilde {
+    width: 200px;
+    border-radius: 50%;
+    border-color: blue;
+    border-width: 4px;
+    border-style: solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
